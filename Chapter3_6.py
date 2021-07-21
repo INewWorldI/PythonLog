@@ -54,7 +54,7 @@ print('s1 & s2', s1.isdisjoint(s2))
 print('subset: ', s1.issubset(s2))
 print('superset: ', s1.issuperset(s2))
 
-# 추가 $ 제거
+# 추가 & 제거
 
 s1 = set([1, 2, 3, 4])
 
